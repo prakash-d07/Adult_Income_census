@@ -8,14 +8,28 @@
   <li> Data Collection                    : We have collecetd data from kaggle platform
   <li> Log creation                       : We try create logging in order keep track and to understand workflow
   <li> Data insertion into Database       : We try insert data into Database MangoDb
-  <li> Exploratory data analysis          : We used Pandas profiling to for EDA part we generated a report and stored in analysis folder
-  <li> Feature Engineering                : We try fill missing values,encode variables and standardize the variables
-  <li> Model creation and Model tunning   : We try create Xgboost classifier and Random forest classfier and by using grid search cv and cross validation 
-                                            we try to tune the model
+  <li> Exploratory data analysis          : We used Pandas profiling to for EDA part we generated a 
+                                            report and stored in analysis folder
+  <li> Feature Engineering                : We try fill missing values,encode variables and 
+                                            standardize the variables
+  <li> Model creation and Model tunning   : We try create Xgboost classifier and Random forest classfier and by 
+                                            using grid search cv and cross validation we try to tune the model
  <li> Pickel file creation                : After Creation of model we try to save model in pickle format .
  <li>Frontend and Deployment              : We used HTML for frontend and Deployed or model in Heroku platform 
  
  
  ## WorkFlow
  ![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/Workflow.png)
+ 
+# Snippets of Project
+#### 1) Training:
+
+![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/Training_image.png)
+
+#### 2) Home Page:
+
+![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/index_page.png)
+
+
+
    
