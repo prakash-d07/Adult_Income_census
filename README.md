@@ -30,6 +30,11 @@
 
 ![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/index_page.png)
 
+#### 3) Result Prediction page:
+
+![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/output_text.png)
+
+
 
 
    
