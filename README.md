@@ -18,8 +18,8 @@
  <li>Frontend and Deployment              : We used HTML for frontend and Deployed or model in Heroku platform 
  
  
- ## Deployment Links
-<p> Link Heroku : https://adult-income-census.herokuapp.com/ <br>
+ ## Deployment Links (Heroku)
+link : https://adult-income-census.herokuapp.com/ <br>
  
  ## WorkFlow
  ![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/Workflow.png)
