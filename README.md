@@ -18,6 +18,9 @@
  <li>Frontend and Deployment              : We used HTML for frontend and Deployed or model in Heroku platform 
  
  
+ ## Deployment Links
+<p> Link Heroku : https://adult-income-census.herokuapp.com/ <br>
+ 
  ## WorkFlow
  ![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/Workflow.png)
  
@@ -33,6 +36,24 @@
 #### 3) Result Prediction page:
 
 ![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/output_text.png)
+
+## Technologies Used
+<pre> 
+1. Python 
+2. Sklearn
+3. Flask
+4. Html
+5. Pandas, Numpy 
+7. Database MangoDb 
+8.Heroku colud
+</pre>
+
+## HLD , LLD & WireFrame
+link : https://drive.google.com/drive/folders/1R7lT6uUGeV1WDm5FMoDUHteeaN0CGJT6?usp=sharing
+
+## Help Me Improve
+<p> Hello Reader if you find any bug please consider raising issue I will address them asap.</p>
+
 
 
 
